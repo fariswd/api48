@@ -1,5 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const fs = require('fs');
 
 const mainPage = 'http://stage48.net/wiki/index.php/Main_Page';
 
@@ -39,13 +40,16 @@ const main = async () => {
 
           const img = cheerio
             .load(l)('img')
-            .attr();
+            .attr().src;
 
           const link = [];
           cheerio
             .load(l)('a')
             .each((i, e) => {
-              link.push(e.attribs);
+              link.push({
+                ...e.attribs,
+                title: e.children[0].data || null
+              });
             });
 
           content.push({
@@ -61,7 +65,14 @@ const main = async () => {
       }
     });
 
-    console.log(JSON.stringify(sisterGroup));
+    const json = JSON.stringify(sisterGroup);
+    fs.writeFile('response-result.json', json, 'utf8', err => {
+      if (err) {
+        console.log('error write response-result.json');
+      } else {
+        console.log('success write response-result.json');
+      }
+    });
   } catch (err) {
     console.log('something goes wrong: ', err);
   }
