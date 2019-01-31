@@ -3,6 +3,7 @@
     "name": " AKB48 Group inside Japan",
     "content": [
       {
+        "title": "AKB48",
         "img": {
           "alt": "AKBLogo.png",
           "src": "/wiki/images/thumb/2/22/AKBLogo.png/71px-AKBLogo.png",
@@ -29,6 +30,7 @@
         ]
       },
       {
+        "title": "SKE48",
         "img": {
           "alt": "SKELogo.png",
           "src": "/wiki/images/thumb/6/6a/SKELogo.png/71px-SKELogo.png",
@@ -55,6 +57,7 @@
         ]
       },
       {
+        "title": "NMB48",
         "img": {
           "alt": "NMBLogo.png",
           "src": "/wiki/images/thumb/3/35/NMBLogo.png/71px-NMBLogo.png",
@@ -81,6 +84,7 @@
         ]
       },
       {
+        "title": "HKT48",
         "img": {
           "alt": "HKTLogo.png",
           "src": "/wiki/images/thumb/a/a0/HKTLogo.png/71px-HKTLogo.png",
@@ -107,6 +111,7 @@
         ]
       },
       {
+        "title": "NGT48",
         "img": {
           "alt": "NGTLogo.png",
           "src": "/wiki/images/thumb/e/ed/NGTLogo.png/71px-NGTLogo.png",
@@ -133,6 +138,7 @@
         ]
       },
       {
+        "title": "STU48",
         "img": {
           "alt": "STULogo.jpg",
           "src": "/wiki/images/thumb/4/49/STULogo.jpg/71px-STULogo.jpg",
@@ -164,6 +170,7 @@
     "name": " AKB48 Group outside Japan",
     "content": [
       {
+        "title": "JKT48",
         "img": {
           "alt": "JKTLogo.png",
           "src": "/wiki/images/thumb/2/22/JKTLogo.png/71px-JKTLogo.png",
@@ -190,6 +197,7 @@
         ]
       },
       {
+        "title": "BNK48",
         "img": {
           "alt": "BNKLogo.jpg",
           "src": "/wiki/images/thumb/d/d5/BNKLogo.jpg/71px-BNKLogo.jpg",
@@ -216,6 +224,7 @@
         ]
       },
       {
+        "title": "MNL48",
         "img": {
           "alt": "MNLLogo.png",
           "src": "/wiki/images/thumb/b/b9/MNLLogo.png/65px-MNLLogo.png",
@@ -242,6 +251,7 @@
         ]
       },
       {
+        "title": "AKB48 Team SH",
         "img": {
           "alt": "TeamSHLogo.JPG",
           "src": "/wiki/images/thumb/2/2e/TeamSHLogo.JPG/74px-TeamSHLogo.JPG",
@@ -269,6 +279,7 @@
         ]
       },
       {
+        "title": "SGO48",
         "img": {
           "alt": "SGO48Logo.jpg",
           "src": "/wiki/images/thumb/5/51/SGO48Logo.jpg/71px-SGO48Logo.jpg",
@@ -291,6 +302,7 @@
         ]
       },
       {
+        "title": "AKB48 Team TP",
         "img": {
           "alt": "AKB48TeamTP.jpg",
           "src": "/wiki/images/thumb/1/19/AKB48TeamTP.jpg/71px-AKB48TeamTP.jpg",
@@ -318,6 +330,7 @@
         ]
       },
       {
+        "title": "MUM48",
         "img": {
           "alt": "MUM48Logo.jpg",
           "src": "/wiki/images/thumb/6/60/MUM48Logo.jpg/71px-MUM48Logo.jpg",
@@ -341,6 +354,7 @@
     "name": " Sakamichi Series (坂道シリーズ)",
     "content": [
       {
+        "title": "Nogizaka46",
         "img": {
           "alt": "NogiLogo.png",
           "src": "/wiki/images/thumb/8/85/NogiLogo.png/89px-NogiLogo.png",
@@ -367,6 +381,7 @@
         ]
       },
       {
+        "title": "Keyakizaka46",
         "img": {
           "alt": "Keyakizaka46OfficialLogo2015.png",
           "src": "/wiki/images/thumb/7/77/Keyakizaka46OfficialLogo2015.png/84px-Keyakizaka46OfficialLogo2015.png",
@@ -393,6 +408,7 @@
         ]
       },
       {
+        "title": "Yoshimotozaka46",
         "img": {
           "alt": "Yoshimotozaka46Official.png",
           "src": "/wiki/images/thumb/c/c6/Yoshimotozaka46Official.png/80px-Yoshimotozaka46Official.png",
@@ -424,6 +440,7 @@
     "name": " Collaborations",
     "content": [
       {
+        "title": "Produce 48",
         "img": {
           "alt": "Produce 48 Logo.png",
           "src": "/wiki/images/thumb/5/50/Produce_48_Logo.png/100px-Produce_48_Logo.png",
@@ -446,6 +463,7 @@
         ]
       },
       {
+        "title": "IZONE",
         "img": {
           "alt": "IZONE.png",
           "src": "/wiki/images/thumb/1/11/IZONE.png/100px-IZONE.png",
@@ -473,6 +491,7 @@
     "name": " SNH48 Group",
     "content": [
       {
+        "title": "SNH48",
         "img": {
           "alt": "SNHLogo.png",
           "src": "/wiki/images/thumb/d/d1/SNHLogo.png/71px-SNHLogo.png",
@@ -499,6 +518,7 @@
         ]
       },
       {
+        "title": "BEJ48",
         "img": {
           "alt": "BEJ48logo.jpg",
           "src": "/wiki/images/thumb/e/e8/BEJ48logo.jpg/73px-BEJ48logo.jpg",
@@ -525,6 +545,7 @@
         ]
       },
       {
+        "title": "GNZ48",
         "img": {
           "alt": "GNZ48.jpg",
           "src": "/wiki/images/thumb/7/73/GNZ48.jpg/71px-GNZ48.jpg",
@@ -556,6 +577,7 @@
     "name": " Former groups",
     "content": [
       {
+        "title": "OJS48",
         "img": {
           "alt": "TBACover.jpg",
           "src": "/wiki/images/b/b9/TBACover.jpg",
@@ -582,6 +604,7 @@
         ]
       },
       {
+        "title": "SDN48",
         "img": {
           "alt": "SDNLogo.png",
           "src": "/wiki/images/thumb/9/9b/SDNLogo.png/71px-SDNLogo.png",
@@ -608,6 +631,7 @@
         ]
       },
       {
+        "title": "TPE48",
         "img": {
           "alt": "TPELogo.jpg",
           "src": "/wiki/images/thumb/0/0a/TPELogo.jpg/71px-TPELogo.jpg",
@@ -630,6 +654,7 @@
         ]
       },
       {
+        "title": "SHY48",
         "img": {
           "alt": "Shy48logo.png",
           "src": "/wiki/images/thumb/7/7b/Shy48logo.png/71px-Shy48logo.png",
@@ -656,6 +681,7 @@
         ]
       },
       {
+        "title": "CKG48",
         "img": {
           "alt": "CKGLogo.jpg",
           "src": "/wiki/images/thumb/6/6a/CKGLogo.jpg/71px-CKGLogo.jpg",

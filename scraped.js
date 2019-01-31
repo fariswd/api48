@@ -33,6 +33,10 @@ const main = async () => {
         });
 
         sisters.forEach(l => {
+          const title = cheerio
+            .load(l)('b')
+            .text();
+
           const img = cheerio
             .load(l)('img')
             .attr();
@@ -45,6 +49,7 @@ const main = async () => {
             });
 
           content.push({
+            title,
             img,
             link
           });
